@@ -26,7 +26,7 @@
 - :thinking: Estoy abierto a nuevas oportunidades laborales, consulta [MI CURRÍCULUM](https://cv-aldair-mejia.my.canva.site/).
 - :boom: Visita [MI SITIO WEB](https://example.com).
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> Mis perfiles de programación
+
 
 <p align="center">
   <!-- Si tienes perfiles de competencia, puedes añadirlos aquí. Por ahora, se omite por falta de datos específicos 
